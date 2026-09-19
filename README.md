@@ -1,4 +1,4 @@
-# Andu × Yukie — Chapter 198 (webtoon reader)
+# Andu × Yukie — Chapter 11
 
 A short, vertical-scrolling Korean-romance webtoon, built for phones. Open `index.html` to read it.
 
